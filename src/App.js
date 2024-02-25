@@ -8,9 +8,9 @@ import EditUser from "./EditUser";
 function App() {
 
   const Data =[
-      {id:1,name:'Logesh',username:'jvlogesh'},
-      {id:2,name:'Ramesh',username:'rameshtr'},
-      {id:3,name:'Daniel',username:'danielradcliff'},
+      {id:1,name:'Pragatheesh',username:'Pragatheeshwa22'},
+      {id:2,name:'Ramasamy',username:'Ramasamyknms'},
+      {id:3,name:'PromothKumar',username:'PromothKumar07'},
   ]
 
   const [Userdata,setUserdata]=useState(Data)
